@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sahara</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,100;1,900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <div class="navbar">
+
+            <img src="logo.png" class="logo">
+            <nav>
+                <ul>
+                    <li><a href="#">HOME</a></li>
+                    <li><a href="#">REGION</a></li>
+                    <li><a href="#">ABOUT</a></li>
+                    
+                </ul>
+            </nav>
+            <img src="menu.png" class="menu-icon">
+        </div>
+        <div class="row">
+            <div class="column">
+                <h1>Sahara</h1>
+                <p>Spanning about 3.6 million square miles (9.4 million square kilometers) the Sahara —Arabic for
+                 "The Great Desert" — is the largest hot desert on Earth, third in size to the cold deserts in Antarctica and the Arctic.</p>
+            <button type="button">Explore</button>
+                </div>
+                <div class="column">
+                    <div class="card card1">
+
+
+                      <h5>Western Desert</h5>  
+                         <p>Western Sahara contains four terrestrial ecoregions: Saharan halophytics, Mediterranean acacia-argania dry woodlands and succulent thickets.</p>
+                    </div>
+                    <div class="column">
+                        <div class="card card2">
+    
+    
+                          <h5>pyramid of Giza</h5>  
+                          <p>Western Sahara contains four terrestrial ecoregions: Saharan halophytics, Mediterranean acacia-argania dry woodlands and succulent thickets.</p>
+                        </div>
+                        <div class="card card3">
+    
+    
+                            <h5 >All Bhagwat</h5>  
+                            <p>All three of Giza's famed pyramids and their elaborate burial complex Mediterranean acacia-argania dry woodlands and succulent thickets.</p>
+                          </div>
+                          
+    
+    
+                    
+
+                          
+    
+    
+                    
+                    
+                </div>
+    </div>
+</body>
+</html>
